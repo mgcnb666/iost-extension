@@ -66,7 +66,7 @@ const DEFAULT_IOST_CONFIG = {
   delay: 0,
 }
 
-const IOST_NODE_URL = 'https://api.iost.io' //当前节点
+const IOST_NODE_URL = 'http://38.60.212.200:30001' //当前节点
 const IOST_TEST_NODE_URL = 'https://test.api.iost.io' //当前节点
 const IWalletJS = {
   newIOST: IOST => {
